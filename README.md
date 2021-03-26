@@ -18,11 +18,19 @@ We use 41 classes of fruits (28,283 images) from the Fruits-360 dataset.
 ## Folder structure:
 
 ├── CNN
+
 │   ├── cnn.ipynb
+
 │   ├── cnn_model.py
+
 │   ├── pre-processing.py
+
 ├── ResNet50 V2
+
 │   ├── resnet50_v2.ipynb
+
 │   ├── resnet50_v2_model.py
+
 │   ├── pre-processing.py
+
 └── README.md
